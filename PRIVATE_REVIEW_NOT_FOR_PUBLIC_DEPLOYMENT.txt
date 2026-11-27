@@ -1,0 +1,13 @@
+PRIVATE CLIENT REVIEW BUILD — NOT APPROVED FOR PUBLIC DEPLOYMENT
+====================================================================
+Generated: 2026-11-27T02:34:53.608Z
+Output Folder: dist-private-review/
+Included Client Photographs: 13 curated items (26 WebP files: thumbs + full)
+Original JPEGs Included: 0
+
+WARNING:
+This directory contains unapproved client travel photography with unconfirmed
+traveler publication consent.
+- DO NOT upload or deploy this folder to Vercel, Cloudflare Pages, or any public host.
+- Use ONLY for local review via: npm run preview:private-review
+- For public deployment, always use: npm run build (outputs clean dist/)
